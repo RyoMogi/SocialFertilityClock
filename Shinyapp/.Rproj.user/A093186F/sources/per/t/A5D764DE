@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586504458315.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4158192541",
+    "id" : "A5D764DE",
+    "lastKnownWriteTime" : 1586506703,
+    "last_content_update" : 1586506703774,
+    "path" : "~/Dropbox (PhD)/PhD/research/SocialClock/Analysis/Shinyapp_multi/server/server_Fig3.R",
+    "project_path" : "server/server_Fig3.R",
+    "properties" : {
+        "cursorPosition" : "139,30",
+        "scrollLine" : "117",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
