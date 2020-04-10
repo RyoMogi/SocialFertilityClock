@@ -1,1 +1,0 @@
-**Fig. S1. Diagram of the transitions among union and parity states in a multistate life table model.** Each element represents the union status as the variable S (single), C (cohabitation), and M (ever-married) and parity status as the superscript 0, 1, 2+.

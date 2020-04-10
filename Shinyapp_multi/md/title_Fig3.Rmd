@@ -1,3 +1,0 @@
-Proportion remaining single and childless ($S_0$) at the end of the reproductive life and conditional on women who were in $S_0$ at the selected age by birth cohorts, 1940s, 1950s, and 1960s.
-
-*Note*: Each point corresponds to a country, the color represents birth cohort, and the size of the dot shows the proportion of women remaining in $S_0$ by the selected age.

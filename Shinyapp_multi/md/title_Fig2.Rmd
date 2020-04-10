@@ -1,3 +1,0 @@
-Age-specific proportion remaining single and childless ($S_0$) at the end of the reproductive life conditional on women who were single and childless at each age for the cohort born in selected years across all examined countries. Each line corresponds to a country’s age-specific proportion remaining single and childless at the end of the reproductive life for women who were in the $S_0$ status at each age, for the cohorts born in the selected years.
-
-*Note*: The thick orange line corresponds to the selected country. The dashed green line shows the the biological fertility clock, or the proportion of female definite sterility by age obtained from Table 2 in Leridon (2008).
